@@ -1,0 +1,47 @@
+{
+  "name": "ayn",
+  "version": "0.0.1",
+  "description": "by efe.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "loader.js": "^4.7.0",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "jimp": "^0.16.1",
+    "quick.db": "^7.1.2",
+    "expres": "^0.0.5",
+    "express": "^4.17.1",
+    "moment-duration-format": "^2.3.2",
+    "weather-js": "^2.0.0",
+    "request-promise-native": "^1.0.9",
+    "@freezegold/anime.js": "^2.0.2",
+    "snekfetch": "^4.0.4",
+    "funny-words": "^0.1.2",
+    "discord.js-commando": "^0.10.0",
+    "user-instagram": "^2.1.8",
+    "reddit-simple": "^1.1.0",
+    "superagent": "^6.1.0",
+    "novelcovid": "^3.0.0",
+    "tcmb-doviz": "^1.0.6",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "common-tags": "^1.8.0",
+    "request-promise-core": "^1.1.4",
+    "@ayn/pagejs": "^1.0.4",
+    "node-superfetch": "^0.1.10",
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^4.1.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
