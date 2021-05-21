@@ -33,8 +33,6 @@
     "request-promise-core": "^1.1.4",
     "@ayn/pagejs": "^1.0.4",
     "node-superfetch": "^0.1.10",
-    "canvas": "^2.6.1",
-    "canvas-constructor": "^4.1.0"
   },
   "engines": {
     "node": "12.x"
